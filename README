@@ -1,0 +1,9 @@
+                                      ***READEME***
+1- First, Unzip my file.
+2- Copy the "sms" folder from above unzip file and Paste it in a required folder(htdocs)in your system.
+3- After that,the file path should look something like "C:\xampp\htdocs\sms".
+4- Import the "nitc_sms.sql" in the database.
+5- Launch apache and mysql and enter the url in the browser like as "http://localhost/sms/".
+6- Username and password for accessing the admin login page are as follows..
+   a. username->atul And Password->singh
+   b. username->arun And Password->raj
